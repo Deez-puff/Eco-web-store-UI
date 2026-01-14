@@ -13,7 +13,7 @@ This repository documents the **UI/UX design** for **PlastoTrack**, a web-based 
 - Figma
 
 ## 🔗 Figma Design Link
-👉 [View the complete UI/UX design](PASTE_YOUR_FIGMA_LINK_HERE)
+👉 [View the complete UI/UX design](https://www.figma.com/proto/GNFHbWzVVyblBBBZwxsd2P/Untitled?node-id=1-2&starting-point-node-id=1%3A2&t=1sHwkka3l0b3BM6h-1)
 
 > Note: Design exports are restricted. This repository serves as **design documentation and reference** using the Figma source link.
 
