@@ -1,33 +1,57 @@
-# Eco-web-store-UI
+# EcoMart – Sustainable E-Commerce UI/UX Design 🌱
 
-# PlastoTrack – UI/UX Design
+EcoMart is a **modern and user-centric UI/UX design** for an e-commerce platform focused on selling **eco-friendly and sustainable products**.  
+The design emphasizes **simplicity, trust, and conscious consumerism**, encouraging users to make environmentally responsible purchasing decisions.
 
-This repository documents the **UI/UX design** for **PlastoTrack**, a web-based platform designed to track and manage plastic usage within a campus ecosystem.
+## 🌍 Design Vision
+The core idea behind EcoMart is to create a **clean, minimal, and intuitive shopping experience** that aligns with sustainability values while maintaining the familiarity of modern e-commerce platforms.
 
-## 🎯 Objective
-- Create an intuitive and minimal interface for plastic tracking
-- Enable data visualization for sustainability insights
-- Support future AI-based analytics integration
+Key principles followed:
+- Minimalistic and clutter-free layouts
+- Nature-inspired visual hierarchy
+- Accessibility-focused design
+- Seamless user flow from discovery to checkout
+
+## 🎯 Objectives
+- Promote eco-friendly products through thoughtful design
+- Build user trust using transparent and clean UI
+- Ensure smooth navigation and clear call-to-actions
+- Create a scalable design system for future expansion
 
 ## 🎨 Design Tool
-- Figma
+- **Figma** (UI/UX Design & Prototyping)
 
 ## 🔗 Figma Design Link
-👉 [View the complete UI/UX design](https://www.figma.com/proto/GNFHbWzVVyblBBBZwxsd2P/Untitled?node-id=1-2&starting-point-node-id=1%3A2&t=1sHwkka3l0b3BM6h-1)
+👉 [View the complete EcoMart UI/UX Design](PASTE_YOUR_FIGMA_LINK_HERE)
 
-> Note: Design exports are restricted. This repository serves as **design documentation and reference** using the Figma source link.
+> **Note:** This repository serves as a design showcase and documentation using the live Figma source.
 
-## 🧩 Key Screens
-- Authentication (Login / Signup)
-- Dashboard
-- Plastic Tracking Interface
-- Analytics & Reports
-- Admin Controls
+## 🧩 Key Screens Designed
+- Landing Page (Brand mission & sustainability focus)
+- Product Listing Page
+- Product Details Page
+- Cart & Checkout Flow
+- User Profile & Orders
+- Wishlist & Favorites
+
+## 🧠 UX Considerations
+- Clear visual hierarchy for product information
+- Eco-impact indicators to promote sustainable choices
+- Consistent spacing, typography, and color usage
+- Optimized layout for conversion and usability
 
 ## 🚀 Future Scope
-- Convert UI into responsive frontend (HTML/CSS/JS / React)
-- Integrate Gemini AI for intelligent insights
-- Improve accessibility and performance
+- Convert design into a responsive frontend (HTML/CSS/JS or React)
+- Integrate AI-based product recommendations
+- Add carbon-footprint indicators per product
+- Enhance accessibility (WCAG compliance)
 
-## 👤 Author
-**Deepak Rajesh**
+## 📌 Use Case
+- UI reference for sustainable e-commerce platforms
+- Portfolio project showcasing product design thinking
+- Foundation for a real-world eco-commerce startup
+
+## 👤 Designer
+**Deepak Rajesh**  
+UI/UX Designer | Web Developer | AI/ML Enthusiast
+
