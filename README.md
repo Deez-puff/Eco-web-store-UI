@@ -21,9 +21,6 @@ Key principles followed:
 ## 🎨 Design Tool
 - **Figma** (UI/UX Design & Prototyping)
 
-## 🔗 Figma Design Link
-👉 [View the complete EcoMart UI/UX Design](PASTE_YOUR_FIGMA_LINK_HERE)
-
 > **Note:** This repository serves as a design showcase and documentation using the live Figma source.
 
 ## 🧩 Key Screens Designed
